@@ -70,10 +70,10 @@ const essays = fs
   .sort((a, b) => b.date - a.date);
 
 const feed = new Feed({
-  title: "Amjad Masad",
+  title: "Jonas Achouri Sihlén",
   description: "Essays",
-  id: "https://amasad.me",
-  link: "https://amasad.me",
+  id: "https://iamjas.se",
+  link: "https://iamjas.se",
   image:
     "https://www.gravatar.com/avatar/03637ef1a5121222c8db0ed48c34e124.png?s=200",
   favicon:
@@ -85,9 +85,9 @@ const feed = new Feed({
     rss: "https://amasad.me/rss",
   },
   author: {
-    name: "Amjad Masad",
-    email: "amjad.masad@gmail.com",
-    link: "https://amasad.me",
+    name: "Jonas Achouri Sihlén",
+    email: "heyjas@hey.com",
+    link: "https://amasad",
   },
 });
 
