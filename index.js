@@ -144,11 +144,11 @@ app.get("/", (req, res) => {
   <article class="index postContent">
     <nav>
       <a href="/about">About</a>
-      <a href="https://twitter.com/amasad">Twitter</a>
-      <a href="mailto:amjad@repl.it">Email</a>
-      <a href="https://replit.com/@amasad">Replit</a>
-      <a href="https://github.com/amasad">Github</a>
-      <a href="https://amasad.me/rss">RSS</a>
+      <a href="https://twitter.com/thenimblegeek">Twitter</a>
+      <a href="mailto:heyjas@hey.com">Email</a>
+      <a href="https://replit.com/@thenimblegeek">Replit</a>
+      <a href="https://github.com/nimblegeek">Github</a>
+      <a href="https://www.linkedin.com/in/jonasasihlen/">LinkedIn</a>
     </nav>
     <div class="essayList">
       Essays:

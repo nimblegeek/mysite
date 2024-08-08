@@ -6,14 +6,14 @@
 
 
 a {
-  color: #4183C4;
+  color: #bb0707;
   text-decoration: none;
   cursor: pointer;
   border-bottom: 1px solid transparent;
 }
 
 a:hover, a:active, a:focus {
-  border-bottom: 1px solid #4183C4;
+  border-bottom: 1px solid #bb0707;
 }
 
 header {
