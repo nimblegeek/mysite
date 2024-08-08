@@ -146,7 +146,7 @@ app.get("/", (req, res) => {
        <a href="https://replit.com/@thenimblegeek">Replit</a>
         <a href="https://github.com/nimblegeek">Github</a>
 
-      <a href="https://twitter.com/thenimblegeek">Twitter</a>
+      <a href="https://twitter.com/thenimblegeek">X (Twitter)</a>
       <a href="https://www.linkedin.com/in/jonasasihlen/">LinkedIn</a>
       <a href="https://nimblegeek.medium.com/">Medium</a>
 
