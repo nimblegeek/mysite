@@ -74,10 +74,9 @@ const feed = new Feed({
   description: "Essays",
   id: "https://iamjas.se",
   link: "https://iamjas.se",
-  image:
-    "https://www.gravatar.com/avatar/03637ef1a5121222c8db0ed48c34e124.png?s=200",
+  image: "https://gravatar.com/jonasasihlen",
   favicon:
-    "https://www.gravatar.com/avatar/03637ef1a5121222c8db0ed48c34e124.png?s=200",
+    "https://gravatar.com/avatar/892fb335ff141cb233011a46644c6c13?size=256&cache=1723123501592",
   copyright: "All rights reserved 2019, Amjad Masad",
   generator: "amasad.me",
   feedLinks: {
