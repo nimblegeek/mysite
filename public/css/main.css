@@ -40,6 +40,14 @@ header {
   margin-right: 10px;
 }
 
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  padding: 10px 0;
+}
+
 .postItem {
   width: 720px;
   margin: 50px auto 50px;
