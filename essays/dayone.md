@@ -1,10 +1,8 @@
 {
   "title": "Today Is Day One",
-  "date": "01/08/2017"
+  "date": "06/13/2024"
 }
 ---
-
-# Today is day one!
 
 A day for doing the right thing. For shipping, creating, and learning.
 Starting anew. With a fresh mindset, sparkled with curiosity, and grit with a mission to solve problems. 

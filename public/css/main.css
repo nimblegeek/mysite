@@ -41,11 +41,13 @@ header {
 }
 
 footer {
-  position: fixed;
-  bottom: 0;
+  clear: both;
   width: 100%;
   text-align: center;
   padding: 10px 0;
+  color: #7e7c7c;
+  position: fixed;
+  bottom: 0;
 }
 
 .postItem {
@@ -167,6 +169,11 @@ footer {
   margin-inline-start: 0px;
   margin-inline-end: 0px;
   padding-inline-start: 40px;
+}
+
+.postContent footer {
+  position: relative;
+  display: inline-block;
 }
 
 .postContent ul, .postContent ol {

@@ -96,7 +96,7 @@ for (const essay of essays) {
   feed.addItem({
     title: essay.title,
     id: essay.id,
-    url: `https://amasad.me/${essay.url}`,
+    url: `https://iamjas.se/${essay.url}`,
     description: essay.description,
     content: essay.content,
     date: essay.date,
