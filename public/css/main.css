@@ -4,6 +4,11 @@
   box-sizing: border-box;
 }
 
+.merriweather-regular {
+  font-family: "Merriweather", serif;
+  font-weight: 400;
+  font-style: normal;
+}
 
 a {
   color: #bb0707;
@@ -17,7 +22,7 @@ a:hover, a:active, a:focus {
 }
 
 header {
-  font-family: Questrial;
+  font-family: "Merriweather", serif;
   margin-top: 50px;
   margin-left: 50px;
   font-size: 20px;
@@ -99,7 +104,7 @@ footer {
 }
 
 .postAuthor {
-  font-family: sans-serif;
+  font-family: "Merriweather", serif;
   font-weight: 300;
   font-size: 18px;
   margin-top: 15px;
@@ -107,7 +112,7 @@ footer {
 }
 
 .postContent {
-  font-family: "Miller Text Rom", Georgia, Cambria, "Times New Roman", Times, serif;
+  font-family: "Merriweather", serif;
   font-size: 18px;
   line-height: 1.6;
   margin-top: 45px;
@@ -120,7 +125,7 @@ footer {
 .postContent h4,
 .postContent h5 {
   color: rgb(76, 75, 75);
-  font-family: Lato;
+  font-family: "Merriweather", serif;
   font-weight: 400;
   margin-top: 10px;
 }
