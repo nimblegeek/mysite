@@ -155,7 +155,7 @@ app.get("/", (req, res) => {
 
     </nav>
     <div class="essayList">
-      Essays:
+      Essays
       <ul>
         ${essayList}
       </ul>
