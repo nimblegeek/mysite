@@ -4,6 +4,20 @@
   box-sizing: border-box;
 }
 
+.footer-nav {
+  position: fixed;
+  z-index: 99999;
+  bottom: 0;
+  display: fixed;
+  width: 100%;
+  font-size: 14px;
+  font-weight: normal;  text-align: center;
+}
+
+.postItem .footer-nav {
+  display: none;
+}
+
 .merriweather-regular {
   font-family: "Merriweather", serif;
   font-weight: 400;
@@ -176,15 +190,9 @@ footer {
   padding-inline-start: 40px;
 }
 
-.postContent footer {
-  position: relative;
-  display: inline-block;
-}
-
 .postContent ul, .postContent ol {
   margin: 20px 0;
 }
-
 
 @media all and (max-width : 720px) {
   .postItem {
@@ -231,6 +239,11 @@ footer {
   line-height: 1.6;
   content: "◦ ";
   color: #807F7F;
+}
+
+
+body.scrolled-to-bottom .postContent footer {
+  display: block;
 }
 
 .postContent ul > li {

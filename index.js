@@ -32,8 +32,11 @@ const staticOpts = {
 app.use("/public", express.static(path.join(__dirname, "public"), staticOpts));
 
 app.use(
-  "/amasad",
-  express.static(path.join(__dirname, "public/images/amasad.jpg"), staticOpts),
+  "/iamjas",
+  express.static(
+    path.join(__dirname, "public/images/iamjas_profile.jpg"),
+    staticOpts,
+  ),
 );
 
 const essaysDir = path.join(__dirname, "essays");
@@ -74,9 +77,10 @@ const feed = new Feed({
   description: "Essays",
   id: "https://iamjas.se",
   link: "https://iamjas.se",
-  image: "https://gravatar.com/jonasasihlen",
+  image:
+    "https://gravatar.com/userimage/176721085/d6c76935f739f4705026df99ae0f35e5.jpeg?size=256",
   favicon:
-    "https://gravatar.com/avatar/892fb335ff141cb233011a46644c6c13?size=256&cache=1723123501592",
+    "https://gravatar.com/userimage/176721085/d6c76935f739f4705026df99ae0f35e5.jpeg?size=256",
   copyright: "All rights reserved 2019, Amjad Masad",
   generator: "amasad.me",
   feedLinks: {
