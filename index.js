@@ -90,7 +90,6 @@ const feed = new Feed({
   author: {
     name: "Jonas Achouri Sihlén",
     email: "heyjas@hey.com",
-    link: "https://amasad",
   },
 });
 
