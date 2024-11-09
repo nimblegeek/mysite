@@ -154,7 +154,7 @@ app.get("/", (req, res) => {
       <a href="https://nimblegeek.medium.com/">Medium</a>
 
       <a href="mailto:heyjas@hey.com">Email</a>
-<a href="https://thenimblegeek.ck.page/">Newsletter</a>
+<a href="https://thenimblegeek.beehiiv.com/subscribe">Newsletter</a>
 
     </nav>
     <div class="essayList">
