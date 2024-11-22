@@ -155,7 +155,7 @@ app.get("/", (req, res) => {
 
       <a href="mailto:heyjas@hey.com">Email</a>
 <a href="https://thenimblegeek.beehiiv.com/subscribe">Newsletter</a>
-
+<a href="makermode.dev">Maker Mode</a>
     </nav>
     <div class="essayList">
       Essays
