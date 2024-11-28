@@ -163,9 +163,6 @@ app.get("/", (req, res) => {
         ${essayList}
       </ul>
     </div>
-    <footer class="footer" style="font-size: 11px;">
-      <p>© <a href="https://amasad.me/">Amjad Masad</a></p>
-    </footer>
   </article>
   `;
   const page = renderPage({}, html);
