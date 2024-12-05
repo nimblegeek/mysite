@@ -148,14 +148,13 @@ app.get("/", (req, res) => {
       <a href="/about">About</a>
        <a href="https://replit.com/@thenimblegeek">Replit</a>
         <a href="https://github.com/nimblegeek">Github</a>
-
       <a href="https://twitter.com/thenimblegeek">X (Twitter)</a>
       <a href="https://www.linkedin.com/in/jonasasihlen/">LinkedIn</a>
       <a href="https://nimblegeek.medium.com/">Medium</a>
 
       <a href="mailto:heyjas@hey.com">Email</a>
-<a href="https://thenimblegeek.beehiiv.com/subscribe">Newsletter</a>
-<a href="https://makermode.dev">Maker Mode</a>
+<a href="https://thenimblegeek.beehiiv.com/subscribe">Newsletter 👨🏽‍💻</a>
+<a href="https://makermode.dev">Maker Mode 🚀</a>
     </nav>
     <div class="essayList">
       Essays
