@@ -38,8 +38,6 @@ I'm not sure when my curiosity for technology was born but today I have a close 
 Writing is an important part of my life experience. The habit and ritual of writing helps me think. It also helps me to solve problems and navigate throughout my various roles. 
 
 #### Where I hang out...
-Since I deleted my facebook and instagram accounts my "online social life" was altered while my social life in general was improved. 
-
-I am trying to be intentional with the platforms I use and I like to write so that boiled down to using only one social media platform.
+I try to be intentional with using online platforms and currently there is a lot of focus on building software and writing, so [the links on this site](https://2e6ca809-1dcc-44c4-a9fa-c5893b5543ed-00-3c42rje3zdfkx.janeway.replit.dev/) give you a solid picture where I spend most my time.
 
 I usually [hangout on X](https://x.com/thenimblegeek), that's where you can find me and you can always say hey by sending a mail to: heyjas@hey.com 
