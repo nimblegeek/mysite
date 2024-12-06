@@ -73,10 +73,10 @@ const essays = fs
   .sort((a, b) => b.date - a.date);
 
 const feed = new Feed({
-  title: "Jonas Achouri Sihlén",
+  title: "TheNimblegeek",
   description: "Essays",
-  id: "https://iamjas.se",
-  link: "https://iamjas.se",
+  id: "https://thenimblegeek.com",
+  link: "https://thenimblegeek.com",
   image:
     "https://gravatar.com/userimage/176721085/d6c76935f739f4705026df99ae0f35e5.jpeg?size=256",
   favicon:
@@ -88,7 +88,7 @@ const feed = new Feed({
     rss: "https://amasad.me/rss",
   },
   author: {
-    name: "Jonas Achouri Sihlén",
+    name: "TheNimblegeek",
     email: "heyjas@hey.com",
   },
 });
