@@ -6,7 +6,7 @@ After seeking out father figures throghout my childhood, youth and even well int
 
 This means my mission in life is to grow the kingdom here on earth, and that earthly kingdom starts with me and my family. 
 
-I consider myself a humble husband and a [non-conformist](https://chrisguillebeau.com/non-conformist). I'm married to Susana who I met at a party in my 20s and we were blessed with 4 kids who were born -15,-17,-19 and in 2024. 
+I'm married to Susana who I met at a party in my 20s and we were later blessed with 4 kids who were born -15,-17,-19 and in 2024. 
 
 ## The Movement Practice
 We are not brains in jars, but blessed with bodies to experience the world to its full extent. Whether we were gifted with strong legs, long arms or nimble necks, we all find our ways to still our minds through movement. 
