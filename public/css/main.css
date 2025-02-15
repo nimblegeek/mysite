@@ -1,7 +1,11 @@
-* {
+#f6f5ed* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+}
+
+body {
+  background-color: #f6f5ed;
 }
 
 .footer-nav {
