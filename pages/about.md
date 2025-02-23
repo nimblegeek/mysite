@@ -1,4 +1,6 @@
 
+<img src="/public/images/iamjas_profile.jpg" alt="Profile" class="profile-image"/>
+
 ## The Family  
 Growing up with a single-mother and a father with heavy addiction problems taught me something impactful about being a man, father and about family values in general. 
 

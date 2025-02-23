@@ -22,6 +22,15 @@ body {
   display: none;
 }
 
+.profile-image {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+  float: right;
+  margin: 0 0 20px 20px;
+}
+
 .merriweather-regular {
   font-family: "Merriweather", serif;
   font-weight: 400;
