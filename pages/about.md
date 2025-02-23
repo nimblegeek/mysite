@@ -1,14 +1,16 @@
-
 <img src="/public/images/iamjas_profile.jpg" alt="Profile" class="profile-image"/>
+
+I am the creator of [Maker Mode](https://makermode.dev/), an online developer agency, solopreneur, father of four, and a lifelong learner. I help small businesses and digital entrepreneurs build better products while sharing insights on running a one-person business.
+
+I write regularly at [TheNimbleGeek](https://thenimblegeek.com) and you can find me on [X](https://x.com/thenimblegeek), [LinkedIn](https://www.linkedin.com/in/jonasasihlen/), or send me an email at [heyjas@hey.com](mailto:heyjas@hey.com).
 
 ## The Family  
 Growing up with a single-mother and a father with heavy addiction problems taught me something impactful about being a man, father and about family values in general. 
 
-After seeking out father figures throghout my childhood, youth and even well into adulthood, I realised it was a dead-end path. My true Father has already blessed me with the light to become one myself.
+I'm married to Susana who I met at a party in my 20s and we were later blessed with 4 kids who were born -15,-17,-19 and in 2024.
 
-This means my mission in life is to grow the kingdom here on earth, and that earthly kingdom starts with me and my family. 
-
-I'm married to Susana who I met at a party in my 20s and we were later blessed with 4 kids who were born -15,-17,-19 and in 2024. 
+## Why TheNimblegeek?
+"Being agile" became a business buzzword that didn't resonate with me any longer. It became too industrialized. A more natural state was to strive to be nimble. With a strong and solid base of skills, values and ethos we should also be able to quickly adapt to new circumstances and situations. Without loosing the core values and principles.
 
 ## The Movement Practice
 We are not brains in jars, but blessed with bodies to experience the world to its full extent. Whether we were gifted with strong legs, long arms or nimble necks, we all find our ways to still our minds through movement. 
@@ -26,8 +28,7 @@ I work as a platform engineer in the banking industry. Focusing on improving the
 I'm the creator of [Maker Mode](https://makermode.dev/), an online developer agency. Helping small businesses and digital entrepreneurs to build better products. I also write a newsletter to share the best insights on how to run a one-person business. This is a lifelong journey. I tend to love to play the long game. Just like my jiujitsu practice. 
 
 ## Why TheNimblegeek?
-
-"Being agile" became a business buzzword that didn't resonate with me any longer. It became too industrialized. A more natural state was to strive to be nimble. With a strong and solid base of skills, values and ethos we should also be able to quickly adapt to new circumstances and situations. Without loosing the core values and principles. 
+"Being agile" became a business buzzword that didn't resonate with me any longer. It became too industrialized. A more natural state was to strive to be nimble. With a strong and solid base of skills, values and ethos we should also be able to quickly adapt to new circumstances and situations. Without loosing the core values and principles.
 
 #### Being Nimble
 Look at the bamboo stick. It is hard, yet flexible. It can resist heavy storms yet being graceously bendy. That is how we want to approach our worklife.
@@ -42,4 +43,4 @@ Writing is an important part of my life experience. The habit and ritual of writ
 #### Where I hang out...
 I try to be intentional with using online platforms and currently there is a lot of focus on building software and writing, so [the links on this site](https://thenimblegeek.com) give you a solid picture where I spend most my time.
 
-I usually [hangout on X](https://x.com/thenimblegeek), that's where you can find me and you can always say hey by sending a mail to: heyjas@hey.com 
+I usually [hangout on X](https://x.com/thenimblegeek), that's where you can find me and you can always say hey by sending a mail to: heyjas@hey.com

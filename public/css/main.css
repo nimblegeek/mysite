@@ -23,13 +23,30 @@ body {
 }
 
 .profile-image {
-  width: 120px;
-  height: 120px;
+  width: 180px;
+  height: 180px;
   border-radius: 50%;
   object-fit: cover;
   float: left;
-  margin: 5px 30px 30px 0;
-  shape-outside: circle(50%);
+  margin: 0 30px 20px 0;
+}
+
+.about-header {
+  font-size: 28px;
+  line-height: 1.4;
+  margin-bottom: 30px;
+  color: #333;
+}
+
+.about-links {
+  margin-top: 20px;
+}
+
+.about-links a {
+  color: #bb0707;
+  text-decoration: none;
+  border-bottom: 1px solid #bb0707;
+  margin-right: 10px;
 }
 
 .merriweather-regular {
