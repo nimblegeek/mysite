@@ -2,15 +2,12 @@
 
 I am the creator of [Maker Mode](https://makermode.dev/), an online developer agency, solopreneur, father of four, and a lifelong learner. I help small businesses and digital entrepreneurs build better products while sharing insights on running a one-person business.
 
-I write regularly at [TheNimbleGeek](https://thenimblegeek.com) and you can find me on [X](https://x.com/thenimblegeek), [LinkedIn](https://www.linkedin.com/in/jonasasihlen/), or send me an email at [heyjas@hey.com](mailto:heyjas@hey.com).
+I write regularly at [TheNimblegeek](https://thenimblegeek.com) and you can find me on [X](https://x.com/thenimblegeek), [LinkedIn](https://www.linkedin.com/in/jonasasihlen/), or send me an email at [heyjas@hey.com](mailto:heyjas@hey.com).
 
 ## The Family  
 Growing up with a single-mother and a father with heavy addiction problems taught me something impactful about being a man, father and about family values in general. 
 
 I'm married to Susana who I met at a party in my 20s and we were later blessed with 4 kids who were born -15,-17,-19 and in 2024.
-
-## Why TheNimblegeek?
-"Being agile" became a business buzzword that didn't resonate with me any longer. It became too industrialized. A more natural state was to strive to be nimble. With a strong and solid base of skills, values and ethos we should also be able to quickly adapt to new circumstances and situations. Without loosing the core values and principles.
 
 ## The Movement Practice
 We are not brains in jars, but blessed with bodies to experience the world to its full extent. Whether we were gifted with strong legs, long arms or nimble necks, we all find our ways to still our minds through movement. 
