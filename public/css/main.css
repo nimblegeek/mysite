@@ -27,8 +27,8 @@ body {
   height: 120px;
   border-radius: 50%;
   object-fit: cover;
-  float: center;
-  margin: 0 25px 15px 0;
+  float: left;
+  margin: 0 15px 5px 0;
   display: block;
   vertical-align: top;
 }
