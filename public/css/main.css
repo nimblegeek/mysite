@@ -31,8 +31,6 @@ body {
   margin: 0 15px 0 0;
   display: block;
   vertical-align: top;
-  background: radial-gradient(circle at center, rgba(246, 245, 237, 0.8) 0%, rgba(246, 245, 237, 0.2) 70%, transparent 100%);
-  padding: 8px;
 }
 
 .postContent p {
