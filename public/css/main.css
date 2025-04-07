@@ -27,7 +27,7 @@ body {
   height: 120px;
   border-radius: 50%;
   object-fit: cover;
-  float: left;
+  float: center;
   margin: 0 25px 15px 0;
   display: block;
   vertical-align: top;
@@ -41,7 +41,7 @@ body {
 @media all and (max-width: 720px) {
   .profile-image {
     float: none;
-    margin: 0 auto 30px;
+    margin: 0 auto 20px;
   }
 }
 
