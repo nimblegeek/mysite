@@ -197,7 +197,8 @@ footer {
 
 .postContent h2 {
   font-size: 26px;
-  margin-top: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 .postContent h3 {
