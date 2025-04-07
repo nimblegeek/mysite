@@ -23,12 +23,20 @@ body {
 }
 
 .profile-image {
-  width: 100px;
-  height: 100px;
+  width: 120px;
+  height: 120px;
   border-radius: 50%;
   object-fit: cover;
   float: left;
-  margin: 0 25px 15px 0;
+  margin: 0 30px 20px 0;
+  display: block;
+}
+
+@media all and (max-width: 720px) {
+  .profile-image {
+    float: none;
+    margin: 0 auto 30px;
+  }
 }
 
 .about-header {
